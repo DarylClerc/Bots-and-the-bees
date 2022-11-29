@@ -7,9 +7,9 @@
 
 
 ## Integrantes
-- Daryl Clerc - <Facultad>
-- Marcelo Guadaquel - <Facultad>
-- Camila Ramirez - <Facultad>
+- Daryl Clerc  <Facultad>
+- Marcelo Guadaquel <Facultad>
+- Camila Ramirez  <Facultad>
 
 
 
