@@ -1,5 +1,4 @@
 # Bots and the bees - 2022
-<Breve descripción del proyecto. Todo lo que esté entre llaves debe ser editado por ustedes>
 Robot de pelea hecho para participar en la BRC (Beauchef robotics challenge). Inspirado en la forma de una abeja, ataca con el aguijón (un martillo con punta que rota en 120º)
 <Insertar una imagen del proyecto terminado, de vista general, como el que aparece abajo>
 
