@@ -2,7 +2,7 @@
 Robot de pelea hecho para participar en la BRC (Beauchef robotics challenge). Inspirado en la forma de una abeja, ataca con el aguijón (un martillo con punta que rota en 120º)
 <Insertar una imagen del proyecto terminado, de vista general, como el que aparece abajo>
 
-![Robot Ejemplo](/multimedia/WhatsApp Image 2022-11-29 at 15.34.21.jpeg)
+![Robot Ejemplo](/multimedia/Foto1.png)
 
 
 
