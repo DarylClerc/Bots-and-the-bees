@@ -24,7 +24,7 @@ El arma de este robot es un martillo afilado, el cual funciona con motores servo
 El modo de defensa de este robot fue creado con bowls de  cocina y con trozos de aluminio 1100 (aleación), los cuales manipulamos para proteger los circuitos internos del robot, se utilizó el aluminio para cubrir la parte inferior y el bowl para cubrir la parte superior, la forma del bowl nos benefició ya que al tener una superficie curvada desviaba los golpes y el aluminio también nos trajo ganancias por su gran dureza ya que ninguna arma enemiga pudo atravesarlo.
 
 ### Diagrama funcional
-![Robot Ejemplo](/multimedia/Captura de Pantalla 2022-11-29 a la(s) 17.23.04.png)
+![Robot Ejemplo](/multimedia/Foto4.png)
 
 
 ### *BONUS*: Paso a Paso
