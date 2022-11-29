@@ -7,10 +7,10 @@
 
 
 ## Integrantes
-- <Integrante 1> - <Facultad>
-- <Integrante 2> - <Facultad>
-- <Integrante 3> - <Facultad>
-- <Integrante 4> - <Facultad>
+- Daryl Clerc - <Facultad>
+- Marcelo Guadaquel - <Facultad>
+- Camila Ramirez - <Facultad>
+
 
 
 ## Descripción del proyecto
