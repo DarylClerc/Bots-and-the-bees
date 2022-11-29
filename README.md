@@ -1,5 +1,5 @@
 # Bots and the bees - 2022
-Robot de pelea hecho para participar en la BRC (Beauchef robotics challenge). Inspirado en la forma de una abeja, ataca con el aguijón (un martillo con punta que rota en 120º gracias a dos motores servo). Sus medidas son: ... y su ventaja es que el arma está en altura, es decir, frente a una situación adversa donde el robot quede inmóvil, aún puede atacar. Los materiales utilizados para este robot son (?
+Robot de pelea hecho para participar en la BRC (Beauchef robotics challenge). Inspirado en la forma de una abeja, ataca con el aguijón (un martillo con punta que rota en 120º gracias a dos motores servo). Sus medidas son: ... y su ventaja es que el arma está en altura, es decir, frente a una situación adversa donde el robot quede inmóvil, aún puede atacar. 
 
 
 ![Robot Ejemplo](/multimedia/Foto2.jpeg)
